@@ -15,3 +15,5 @@ $ git commit -m "another push"
 $ git remote add origin https://github.com/BanjanBhai/Test/edit/main/Test
 
 $ git push origin master 
+
+$ git status 
