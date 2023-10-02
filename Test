@@ -17,3 +17,15 @@ $ git remote add origin https://github.com/BanjanBhai/Test/edit/main/Test
 $ git push origin master 
 
 $ git status 
+
+$ git 
+
+$ git add. 
+
+$ git commit -m "gsgsg"
+
+$ git switch master 
+
+$ git merge testing 
+
+$ git 
